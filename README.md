@@ -1,0 +1,2 @@
+# mega
+General purpose script
